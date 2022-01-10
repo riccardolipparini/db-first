@@ -1,0 +1,13 @@
+                                                                               zione
+concessionario               ne hanno di                                       e
+( tutte le tabelle           default not null,                                 colore
+hanno di deafult e le        immatricolazione                                  solo
+not null)          colonne   forse solo null)                                  null?)
+
+
+ID                MARCA                          Chilometri Immatricolazione            Posti   prezzo         Alimentazione colore      Cilindrata
+                                                            Timestamp                                                                    varchar
+auto-increment varchar(20)                       FLOAT(3,3) (mese e anno)               Tinyint FLOAT(3,3)     varchar(20)   varchar(10) (10)
+                                                                                                Dipende dal
+small/mediumint                                                                                 concessionario
+
